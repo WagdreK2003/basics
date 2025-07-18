@@ -1,4 +1,4 @@
-# print
+# #print
 
 # print("I am khushi")
 # print("My collage name is PRPCEM")
@@ -10,7 +10,7 @@
 # print("I am khushi", end=" ")
 # print("wagdre")
 
-# variable
+## variable
 
 # a =10
 # print(a)
